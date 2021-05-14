@@ -1,5 +1,8 @@
-## It's a repositroy that I write the note of the graduate entrance examination
 
-*theNote*
+#### It's a repositroy that I write the note of the graduate entrance examination
+
 **---**
-![image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.51yuansu.com%2Fpic3%2Fcover%2F03%2F27%2F65%2F5b7b3abfc1e86_610.jpg&refer=http%3A%2F%2Fpic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1623568628&t=d7f4875a4af32de9bdb38103048bdb2f "notes")
+*Note*
+**---**
+
+![image](https://file02.16sucai.com/d/file/2014/0811/1f1f2c57fca83066fd7f4ad5751888f4.jpg "notes" )
